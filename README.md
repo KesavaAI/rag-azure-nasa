@@ -183,7 +183,7 @@ streamlit run ui.py
 | Multi-hop QA              | ✅     |
 | Cross-chapter reasoning   | ✅     |
 | Table understanding       | ✅     |
-| Diagram awareness         | ⚠️     |
+| Diagram awareness         | ✅     |
 | Reranking                 | ✅     |
 
 ---
