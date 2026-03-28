@@ -1,0 +1,11 @@
+openai
+azure-search-documents
+azure-ai-formrecognizer
+python-dotenv
+fastapi
+uvicorn
+numpy
+azure-core 
+pymupdf 
+python-dotenv
+streamlit
