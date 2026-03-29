@@ -98,8 +98,9 @@ Answer Generation (GPT-4o)
 - Answer generation (`llm.py`)  
 
 ### 💬 UI Layer
+<img width="613" height="713" alt="Screenshot 2026-03-29 082622" src="https://github.com/user-attachments/assets/2f084a37-42d6-4dfe-a084-b006b34452e3" />
 
-![UI Demo](https://raw.githubusercontent.com/KesavaAI/rag-azure-nasa/main/assets/ui_demo.png)
+
 
 - Built using Streamlit  
 - Chat-based interface  
